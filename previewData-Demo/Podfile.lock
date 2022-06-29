@@ -1,0 +1,16 @@
+PODS:
+  - OrkaPreviewData (1.0.0)
+
+DEPENDENCIES:
+  - OrkaPreviewData (from `../`)
+
+EXTERNAL SOURCES:
+  OrkaPreviewData:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OrkaPreviewData: 94ee3dbad77a02aa3037042474d5a267d2876703
+
+PODFILE CHECKSUM: f1ae0dc5b6dffa48296c2078e9b8e40cf2cf3d86
+
+COCOAPODS: 1.11.3
