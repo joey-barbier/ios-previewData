@@ -14,7 +14,7 @@ public protocol PreviewData: Decodable {
 
 public extension PreviewData {
     static func previewData() throws -> [Self] {
-        guard let path = Bundle.main.path(forResource: "\(Self.self)DataPreview", ofType: "json") else {
+        guard let path = Bundle.main.path(forResource: "\(Self.self)PreviewData", ofType: "json") else {
             throw PreviewDataError.fileNotFound
         }
         do {
