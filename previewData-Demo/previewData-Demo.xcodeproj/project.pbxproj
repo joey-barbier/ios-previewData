@@ -45,6 +45,8 @@
 		00F37440F7907EA97ECA3162 /* Pods-previewData-DemoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-previewData-DemoTests.release.xcconfig"; path = "Target Support Files/Pods-previewData-DemoTests/Pods-previewData-DemoTests.release.xcconfig"; sourceTree = "<group>"; };
 		0DBA607F48A4ADA13A53C4CC /* Pods_previewData_Demo_previewData_DemoUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_previewData_Demo_previewData_DemoUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		276D2ECB3F5398556E5CBA5A /* Pods_previewData_DemoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_previewData_DemoTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2823ACDE286DE763006AECBB /* CHANGELOG.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = CHANGELOG.md; path = ../CHANGELOG.md; sourceTree = "<group>"; };
+		2823ACDF286DE763006AECBB /* README_FR.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README_FR.md; path = ../README_FR.md; sourceTree = "<group>"; };
 		28B6A990286CB71F00158393 /* previewData-Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "previewData-Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		28B6A993286CB71F00158393 /* previewData_DemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = previewData_DemoApp.swift; sourceTree = "<group>"; };
 		28B6A997286CB72100158393 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -99,6 +101,8 @@
 		28B6A987286CB71F00158393 = {
 			isa = PBXGroup;
 			children = (
+				2823ACDE286DE763006AECBB /* CHANGELOG.md */,
+				2823ACDF286DE763006AECBB /* README_FR.md */,
 				28B6A992286CB71F00158393 /* previewData-Demo */,
 				28B6A9A3286CB72100158393 /* previewData-DemoTests */,
 				28B6A9AD286CB72100158393 /* previewData-DemoUITests */,
