@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'OrkaPreviewData'
-  s.version = '1.0.1'
+  s.version = '1.0.2'
   s.authors = 'Joey Barbier'
   s.summary = 'A very simple Pod to convert a data demo (json) to an array of objects'
   s.homepage = 'https://github.com/joey-barbier/ios-previewData'
